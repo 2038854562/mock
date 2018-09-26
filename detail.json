@@ -31,7 +31,8 @@
     },
     {
         "key":"disk_zone",
-        "value":"磁盘分区信息"
+        "value":"",
+        "name":"磁盘分区信息"
     },
     {
         "key":"net_rate",
