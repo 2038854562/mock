@@ -1,50 +1,61 @@
 [
     {
         "key":"mask",
-        "value":"255.255.255.0"
+        "value":"255.255.255.0",
+        "name":"子网掩码"
     },
     {
         "key":"disk_num",
-        "value":"1"
+        "value":"1",
+        "name":"逻辑磁盘数"
     },
     {
         "key":"restart_time",
-        "value":"2018-09-26"
+        "value":"2018-09-26",
+        "name":"上次重启时间"
     },
     {
         "key":"sync_server",
-        "value":"10.1.88.40"
+        "value":"10.1.88.40",
+        "name":"时钟同步服务"
     },
     {
         "key":"time_zone",
-        "value":"Asia/Shanghai"
+        "value":"Asia/Shanghai",
+        "name":"时区"
     },
     {
         "key":"instaill_time",
-        "value":"2017-09-26"
+        "value":"2017-09-26",
+        "name":"主机安装时间"
     },
     {
         "key":"disk_zone",
-        "value":""
+        "value":"磁盘分区信息"
     },
     {
         "key":"net_rate",
-        "value":"30mb/s"
+        "value":"30mb/s",
+        "name":"网卡速率"
     },
     {
         "key":"gateway",
-        "value":"10.1.100.254"
+        "value":"10.1.100.254",
+        "name":"网关"
     },
     {
-        "key":"net_rate",
-        "value":"30mb/s"
+        "key":"run_time",
+        "value":"30days",
+        "name":"运行时间"
     },
     {
         "key":"dns_server",
-        "value":"192.168.1.233"
+        "value":"192.168.1.233",
+        "name":"dns服务器"
     },
     {
         "key":"ip",
-        "value":"192.168.1.233"
+        "value":"192.168.1.233",
+        "name":"内网IP"
     }
 ]
