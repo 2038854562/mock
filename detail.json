@@ -2,66 +2,79 @@
     {
         "key":"bk_host_id",
         "value":1,
-        "name":"主机ID"
+        "name":"主机ID",
+        "obj_id":"host"
     },
     {
         "key":"mask",
         "value":"255.255.255.0",
-        "name":"子网掩码"
+        "name":"子网掩码",
+        "obj_id":"host"
     },
     {
         "key":"disk_num",
         "value":"1",
-        "name":"逻辑磁盘数"
+        "name":"逻辑磁盘数",
+        "obj_id":"host"
     },
     {
         "key":"restart_time",
         "value":"2018-09-26",
-        "name":"上次重启时间"
+        "name":"上次重启时间",
+        "obj_id":"host"
     },
     {
         "key":"sync_server",
         "value":"10.1.88.40",
-        "name":"时钟同步服务"
+        "name":"时钟同步服务",
+        "obj_id":"host"
     },
     {
         "key":"time_zone",
         "value":"Asia/Shanghai",
-        "name":"时区"
+        "name":"时区",
+        "obj_id":"host"
     },
     {
         "key":"instaill_time",
         "value":"2017-09-26",
-        "name":"主机安装时间"
+        "name":"主机安装时间",
+        "obj_id":"host"
     },
     {
         "key":"disk_zone",
         "value":"",
-        "name":"磁盘分区信息"
+        "name":"磁盘分区信息",
+        "obj_id":"host"
     },
     {
         "key":"net_rate",
         "value":"30mb/s",
-        "name":"网卡速率"
+        "name":"网卡速率",
+        "obj_id":"host"
     },
     {
         "key":"gateway",
         "value":"10.1.100.254",
-        "name":"网关"
+        "name":"网关",
+        "obj_id":"host"
     },
     {
         "key":"run_time",
         "value":"30days",
-        "name":"运行时间"
+        "name":"运行时间",
+        "obj_id":"host"
     },
     {
         "key":"dns_server",
         "value":"192.168.1.233",
-        "name":"dns服务器"
+        "name":"dns服务器",
+        "obj_id":"host"
     },
     {
         "key":"ip",
         "value":"192.168.1.233",
-        "name":"内网IP"
+        "name":"内网IP",
+        "obj_id":"host"
     }
 ]
