@@ -1,0 +1,22 @@
+[
+{
+  'obj_id':'weblogic',
+  'inst_name':'192.168.165.153'
+},
+{
+  'obj_id':'weblogic',
+  'inst_name':'40'
+},
+{
+  'obj_id':'weblogic',
+  'inst_name':'45'
+},
+{
+  'obj_id':'weblogic',
+  'inst_name':'192.168.2.154-weblogic-7001'
+},
+{
+  'obj_id':'weblogic',
+  'inst_name':'192.168.2.154-weblogic-8008'
+}
+]
